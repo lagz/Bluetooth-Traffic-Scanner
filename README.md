@@ -2,7 +2,7 @@
 # Bluetooth Traffic Scanner
 ### Created by: Maxwell LaGassa, Zachary Herman, and Jack Madsen
 - Thank you for showing interest in our project. This project demonstrates a pretty standard IoT application utilizing an ESP32
-and a Raspberry Pi microcontroller. For more information please reference the 
+and a Raspberry Pi microcontroller. For more information please reference the 'FINAL PROJECT REPORT.pdf' file.
 - The ESP32 is known as the Node computer, and the Raspberry Pi is the Base Station for reference in this project.
 ## Basic Operation
 - In order for this to function as intended, one must have a Node and a Base Station computer. 
